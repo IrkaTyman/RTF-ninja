@@ -1,4 +1,8 @@
-# FruitNinja2D-Clone
-Fruit Ninja 2D game clone with Unity.
+# RTF ninja
+«RTF Ninja» – это аркадная пиксельная игра, вдохновленная классической «Fruit Ninja», но адаптированная под реалии ИРИТ-РтФ. Игроку предстоит «уничтожать» предметы из учебного процесса, чтобы набирать баллы. Итогом набора баллов будет «выпуск» из университета. Однако за ошибки предполагаются штрафы, из-за которых игра может быть проиграна и досрочно завершена.
 
-![FruitNinja](https://user-images.githubusercontent.com/65050348/186490856-4a7e0fab-9b54-460d-ae13-fba722e74979.PNG)
+[Диздок](https://docs.google.com/document/d/1xdmQ22iOrX0ibvY4DZaTA4qwNCcc7DBs0tB8Hw5Y7sE/edit?tab=t.0)
+[Черновик игры на Яндекс играх](https://yandex.ru/games/app/431144?draft=true&lang=ru)
+
+
+
